@@ -3,7 +3,7 @@ import plotly.express as px
 import pandas as pd
 
 # Load data
-df = pd.read_csv('company_esg_financial_dataset.csv')
+df = pd.read_csv('dataset.csv')
 
 st.title("Interactive 3D ESG Dashboard")
 
